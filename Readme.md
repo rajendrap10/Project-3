@@ -1,4 +1,4 @@
-## JSFS (Project 2)
+## FSJS (Project 3)
 ---
 ![Rajendra Pandey, Project](https://img.shields.io/badge/Rajendra%20Pandey-FSJS-orange)
 ![ineuro, lco](https://img.shields.io/badge/iNeuron-LCO-green)
@@ -7,7 +7,7 @@
 
 Hi
 
-This is a FSJS Live Class Project 2 Repo. This task taught me a lot of new things, including how to create websites using HTML and CSS. I know a few contemporary HTML and CSS properties. I have used flex properties in this project. 
+This is a FSJS Live Class Project No. 3 Repo. This task taught me a lot of new things, including how to create websites using HTML and CSS. I have developed it with help of positions properties & css core properties like float and background images.
 
 I would like to say Thankyou my instructor `Hitesh Choudhary` for the guiding, mentoring and pushing me hard so that I can learn and develop this project.
 
@@ -17,13 +17,13 @@ I would like to say Thankyou my instructor `Hitesh Choudhary` for the guiding, m
 
 ### Live Link :
 
-> [Live Url](https://rajendra-project-2.netlify.app/)
+> [Live Url](https://rajendra-project-3.netlify.app/)
 
 
 ### Mockups
 ---
 
-<img src = "https://rajendra-pandey.netlify.app/images/projects-screenshot/Live-Project-2.png" height="300" align = "center" > 
+<img src = "https://rajendra-pandey.netlify.app/images/projects-screenshot/Live-Project-3.png" height="300" align = "center" > 
 
 
 
